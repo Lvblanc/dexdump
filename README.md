@@ -1,2 +1,2 @@
 # dexdump
-dumping protected dex 
+dumping protected dex support A11-A12
